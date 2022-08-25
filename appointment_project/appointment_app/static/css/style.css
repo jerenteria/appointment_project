@@ -1,0 +1,13 @@
+.center {
+    text-align: center;
+    padding-top: 35px;
+}
+
+#render-appointments {
+    padding: 45px;
+}
+
+#render-notes {
+    padding-bottom: 20px;
+    color: gray;
+}
